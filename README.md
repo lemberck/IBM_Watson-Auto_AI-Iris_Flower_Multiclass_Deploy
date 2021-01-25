@@ -13,7 +13,7 @@ This problem consists of a .csv balanced dataset with 150 samples, all with labe
 (setosa, versicolor, virginica) which we want to predict for new data based on 4 features : 
 sepal lengh, sepal width, petal lengh and petal width.
 
-You can [WATCH A TEST HERE](LINK)
+You can [WATCH A TEST HERE](https://github.com/lemberck/IBM_Watson-Auto_AI-Iris_Flower_Multiclass_Deploy/blob/main/full_process.gif)
 
-You can also find the videos and prints in this repository.
+You can also find the videos in this repository.
 
